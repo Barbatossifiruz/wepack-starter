@@ -1,0 +1,19 @@
+{
+   "folders": [],
+   "settings": {
+      "liveServer.settings.multiRootWorkspaceName": "cliente_vybr"
+   },
+   "launch": {
+      "version": "0.2.0",
+      "configurations": [
+         {
+            "type": "pwa-node",
+            "request": "launch",
+            "name": "Launch Program",
+            "skipFiles": ["<node_internals>/**"],
+            "program": "c:\\xampp\\htdocs\\barbatossifiruz_estudios\\udemy\\Fernando_Herrera\\curso_js\\fundamentos\\clase-004\\app.js",
+            "__workspaceFolder": "c:\\xampp\\htdocs\\barbatossifiruz_estudios\\udemy\\Fernando_Herrera\\curso_js\\fundamentos\\clase-004"
+         }
+      ]
+   }
+}
